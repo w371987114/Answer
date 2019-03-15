@@ -1,0 +1,1 @@
+* [vb.net用代码写窗体，而不是用鼠标拖窗体，怎么写？](https://zhidao.baidu.com/question/1953174522948866828)
